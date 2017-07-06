@@ -1,0 +1,8 @@
+name: millisecond
+version: 0.1.0
+authors:
+  - SuperPaintman <SuperPaintmanDeveloper@gmail.com>
+description: Library to easily convert various time formats to milliseconds and milliseconds to human readable format.
+homepage: https://github.com/SuperPaintman/ms.dart
+dev_dependencies:
+  test: '0.12.23+1'
