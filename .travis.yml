@@ -10,7 +10,6 @@ dart_task:
   - test: --platform vm
   - test: --platform dartium
     install_dartium: true
-  - test: --platform chrome
   - dartfmt
   - dartanalyzer
 
