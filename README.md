@@ -101,8 +101,8 @@ pub run test
 [MIT][license-url]
 
 
-[license-url]: LICENSE
-[changelog-url]: CHANGELOG.md
+[license-url]: https://raw.githubusercontent.com/SuperPaintman/ms.dart/master/LICENSE
+[changelog-url]: https://raw.githubusercontent.com/SuperPaintman/ms.dart/master/CHANGELOG.md
 [docs-url]: https://superpaintman.github.io/ms.dart/
 [travis-image]: https://img.shields.io/travis/SuperPaintman/ms.dart/master.svg?label=linux
 [travis-url]: https://travis-ci.org/SuperPaintman/ms.dart
